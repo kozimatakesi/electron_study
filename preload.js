@@ -12,6 +12,9 @@ contextBridge.exposeInMainWorld(
         }
         callBack(null, matches);
       });
+    },
+    fileTwo: async() => {
+      await fileUtil();
     }
   },
 );
