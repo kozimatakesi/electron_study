@@ -1,0 +1,21 @@
+{
+  "name": "electron_study",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "riverbook708 <riverbook708@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kozimatakesi/electron_study",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.2",
+    "marked": "^2.0.3"
+  }
+}
